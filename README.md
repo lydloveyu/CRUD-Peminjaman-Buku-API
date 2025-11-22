@@ -180,8 +180,32 @@ Body:
 
 <hr>
 
-<h2>📸 6. Screenshot Postman</h2>
-<p>Tambahkan screenshot di sini setelah kamu menjalankan:</p>
+<h2>📸 Screenshot Pengujian API di Postman</h2>
+
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+  <div>
+    <h3>Postman Test 1</h3>
+    <img src="postman (1).png" alt="Postman 1" width="500">
+  </div>
+
+  <div>
+    <h3>Postman Test 2</h3>
+    <img src="postman (2).png" alt="Postman 2" width="500">
+  </div>
+
+  <div>
+    <h3>Postman Test 3</h3>
+    <img src="postman (3).png" alt="Postman 3" width="500">
+  </div>
+
+  <div>
+    <h3>Postman Test 4</h3>
+    <img src="postman (4).png" alt="Postman 4" width="500">
+  </div>
+
+</div>
+
 
 <ul>
   <li>GET semua buku</li>
